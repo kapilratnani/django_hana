@@ -56,7 +56,7 @@ class CursorWrapper(object):
         self.is_hana = True
 
     def set_dirty(self):
-        if not self.db.get_autocommit()
+        if not self.db.get_autocommit():
             self.db.set_dirty()
 
     def __getattr__(self, attr):
