@@ -1,3 +1,8 @@
+Discontinued
+============
+Please read here https://www.sap.com/india/developer/tutorials/hxe-python-django-polls.html
+
+
 Django DB Backend for SAP HANA
 ==============================
 Ready for use.
